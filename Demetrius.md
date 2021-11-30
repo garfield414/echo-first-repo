@@ -9,3 +9,7 @@ Here are some awesome people in our Echo class
   -Regina
   -Samantha
   -Raul
+
+*This is in italics*
+
+**This is in bold**
