@@ -24,3 +24,5 @@ Three (but kinda four) really important commands:
 - $ git push origin main
 
 ```
+
+[The super awesome Syllabus](https://github.com/learn-academy-2021-echo/Syllabus)
